@@ -4,7 +4,6 @@ This project applies machine learning techniques to predict the likelihoodof hea
 📂 Dataset Description
 
 The dataset contains patient medical records with the following features:
-
 Column	Description
 age	Age of the patient (years)
 sex	Gender (1 = male, 0 = female)
